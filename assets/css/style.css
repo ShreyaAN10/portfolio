@@ -862,11 +862,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #149ddd;
+  color: #2c2f3f;
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #ebebe4;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -913,14 +913,14 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #ebebe4;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #2c2f3f;
   color: #fff;
 }
 
